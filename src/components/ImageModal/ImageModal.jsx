@@ -19,7 +19,7 @@ export const ImageModal = ({ isOpen, onClose, imageUrl }) => {
         content: {
           border: 'none',
           padding: '0',
-          maxWidth: '900px',
+          maxWidth: '800px',
           margin: 'auto',
           inset: 'auto',
           borderRadius: '0',
